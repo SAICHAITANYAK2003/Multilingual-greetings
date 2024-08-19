@@ -1,0 +1,17 @@
+.greetings-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.image-url {
+  margin-top: 50px;
+  height: 400px;
+}
+.greetings-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
